@@ -6,9 +6,10 @@
   "@type": "https://openminds.om-i.org/types/MRIPulseSequence",
   "definition": "A magnetic resonance imaging pulse sequence composed of a slice selective 90-degree pulse followed by one or more (for fast spin echo sequences) 180-degree refocusing pulses.",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
   "name": "spin echo pulse sequence",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": null,
+  "preferredCrossReference": null,
   "preferredOntologyIdentifier": null,
   "synonym": [
     "SE pulse sequence"
