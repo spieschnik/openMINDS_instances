@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.om-i.org/props/"
+  },
+  "@id": "https://openminds.om-i.org/instances/analysisTechnique/analysisOfVariance",
+  "@type": "https://openminds.om-i.org/types/AnalysisTechnique",
+  "definition": "An analysis technique that comprises a group of statical methods used to test whether the means of two or more groups are all equal[adapted from [wikipedia](https://en.wikipedia.org/wiki/Analysis_of_variance).]",
+  "description": null,
+  "name": "analysis of variance",
+  "otherCrossReference": null,
+  "otherOntologyIdentifier": [
+    "http://uri.interlex.org/base/ilx_0783072"
+  ],
+  "preferredCrossReference": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0200201",
+  "synonym": [
+    "ANOVA"  
+  ]
+}
